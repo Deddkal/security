@@ -13,7 +13,7 @@ public class ClientServiceImpl implements ClientService {
 
     @Override
     public void saveEntity(Client entity) {
-
+        System.out.println("hola mundo");
     }
 
     @Override
